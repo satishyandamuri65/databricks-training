@@ -1,0 +1,25 @@
+26. Find the city with the maximum number of students.
+27. Display all departments and their staff count, including empty departments.
+28. Find students who have failed in at least one subject (marks < 50).
+29. Display staff hired before 2018.
+30. Find departments where no staff salary is recorded as NULL.
+31. Assign a row number to students ordered by CGPA.
+32. Rank students based on their CGPA.
+33. Display dense rank of staff salaries.
+34. Find the top 3 highest scoring students using window functions.
+35. Display running total of marks for each student.
+36. Find the average marks for each subject using window functions.
+37. Display previous exam marks for each student using LAG().
+38. Display next exam marks for each student using LEAD().
+39. Find the highest marks within each subject using MAX() OVER().
+40. Display cumulative average marks ordered by exam date.
+41. Find the first student admitted in each department.
+42. Display the latest hired staff member in each department.
+43. Divide students into 4 CGPA quartiles using NTILE().
+44. Find percentage rank of students based on CGPA.
+45. Display cumulative distribution of salaries.
+46. Find subjects where a student's marks are above the subject average.
+47. Find departments whose average staff salary is higher than overall average salary.
+48. Display students who scored above department average marks.
+49. Find the nth highest mark (3rd highest) using DENSE_RANK().
+50. Generate a report showing student name, department, subject, exam type, marks, department average, and overall rank.

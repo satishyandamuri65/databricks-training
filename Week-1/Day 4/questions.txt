@@ -1,0 +1,15 @@
+1. Use ROW_NUMBER() to assign a row number to employees ordered by salary descending.
+2. Use RANK() to rank employees by salary.
+3. Use DENSE_RANK() to rank employees by salary.
+4. Find the top 3 highest-paid employees using a window function.
+5. Rank employees within each department using PARTITION BY.
+6. Display the highest salary in each department using a window function.
+7. Calculate the running total of order amounts ordered by order_date.
+8. Calculate the cumulative sales amount for each employee.
+9. Use LAG() to show the previous order amount for each customer.
+10. Use LEAD() to show the next order amount for each customer.
+11. Find the difference between the current order amount and previous order amount.
+12. Calculate a moving average of the last 3 orders.
+13. Use NTILE(4) to divide employees into salary quartiles.
+14. Find the first order placed by each customer using ROW_NUMBER().
+15. Find the latest order placed by each customer.
